@@ -16,7 +16,7 @@ const Footer = () => {
           {/* Brand */}
           <div>
             <div className="flex items-center gap-2 mb-4">
-              <img src="/upcliq-logo.png" alt="Upcliq logo" width={36} height={36} className="h-9 w-9 rounded-lg" />
+              <img src="upcliq-logo.png" alt="Upcliq logo" width={36} height={36} className="h-9 w-9 rounded-lg" />
               <span className="text-xl font-bold text-white">Upcliq</span>
             </div>
             <p className="text-white/70 max-w-xs leading-relaxed">
