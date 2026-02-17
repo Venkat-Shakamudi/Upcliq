@@ -59,7 +59,7 @@ const Navbar = () => {
       <nav className="container mx-auto flex items-center justify-between px-4 lg:px-8 py-3" aria-label="Main navigation">
         <a href="#" className="flex items-center shrink-0 mr-5" aria-label="Upcliq home">
           <img
-            src="/upcliq-logo.png"
+            src="upcliq-logo.png"
             alt="Upcliq digital marketing agency logo"
             className="h-7 md:h-8 lg:h-9 w-auto shrink-0 object-contain [image-rendering:-webkit-optimize-contrast]"
           />
